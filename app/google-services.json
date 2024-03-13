@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "512207572993",
+    "project_id": "projeto-firebase-menu-app",
+    "storage_bucket": "projeto-firebase-menu-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512207572993:android:e84f3a39ab7e497d597000",
+        "android_client_info": {
+          "package_name": "com.example.firebase_menu_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe8uA3YGwV-PvO3TxTKYjJQESxkIzDZa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
