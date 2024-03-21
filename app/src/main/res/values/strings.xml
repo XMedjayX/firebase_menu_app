@@ -3,4 +3,9 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="notifications">Notifications</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="go_to_dashboard">Go to Dashboard</string>
+    <string name="go_to_notifications">Go to Notifications</string>
+    <string name="back_to_home">Back to Home</string>
 </resources>
